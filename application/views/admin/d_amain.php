@@ -1,0 +1,1 @@
+<legend>Administrator Panel</legend>
